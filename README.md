@@ -11,11 +11,12 @@ Please star this repo if it's helped you
 ### Download this repo
 
 Download this repo
+<br><br>
 
 ### Install Python 3
 
 Install [Python 3](https://www.python.org/downloads/) on your machine
-
+<br><br>
 
 ### Install Selenium
 
