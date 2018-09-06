@@ -51,11 +51,13 @@ Open TaskScheduler
 On the right hand side, click 'Create Task'
 
 
+<br><br>
 In the Name field type 'TPL-AutoRenewal'
 
 Click the radio button labelled 'Run whether user is logged on or not'
 
 
+<br><br>
 On the top, click the tab labelled 'Triggers'
 
 Click the button labelled 'New'
@@ -64,7 +66,7 @@ A window will pop up, click daily on the left hand side
 
 Click 'OK' in the bottom right
 
-
+<br><br>
 On the top, click the tab labelled 'Actions'
 
 Click the button labelled 'New'
@@ -84,6 +86,7 @@ Example: 'C:\Users\USERNAME\Downloads\TPL-AutoRenewal'
 Replace USERNAME with your computer's username
 
 
+<br><br>
 On the top, click the tab labelled 'Conditions'
 
 Make sure the checkbox labelled 'Start the task only if the computer is on AC power' is unchecked
@@ -95,16 +98,19 @@ Check the checkbox labelled 'Start only if the following network connection is a
 Set the dropdown to 'Any connection'
 
 
+<br><br>
 On the top, click the tab labelled 'Settings'
 
 Check the checkbox labelled 'Run task as soon as possible if a scheduled start is missed'
 
 
+<br><br>
 On the bottom click 'OK'
 
 Enter your windows password
 
 
+<br><br>
 Your library checkouts will now be automatically renewed the day before they're due!
 
 
