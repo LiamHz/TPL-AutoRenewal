@@ -6,6 +6,10 @@ Please star this repo if it's helped you
 
 ## Setup (~8 minutes)
 
+### Download this repo
+
+Download this repo
+
 ### Install Python 3
 
 Install [Python 3](https://www.python.org/downloads/) on your machine
