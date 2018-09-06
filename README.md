@@ -6,21 +6,21 @@ Please star this repo if it's helped you
 
 ## Setup (~8 minutes)
 
-#### Install Python 3
+### Install Python 3
 
 Install (Python 3)[https://www.python.org/downloads/] on your machine
 
-#### Install Selenium
+### Install Selenium
 
 Run the following command in your terminal
 pip install -U selenium
 
-#### Enter your own authentication credentials
+### Enter your own authentication credentials
 
 Open auth.txt
 Replace the word PLACEHOLDER with your respective credentials
 
-#### Set the script to run automatically (Windows) - Video
+### Set the script to run automatically (Windows) - Video
 
 This video shows you how to use TaskScheduler to automatically run a Python script: https://www.youtube.com/watch?v=n2Cr_YRQk7o
 Make sure you set the 'Add arguments' field to 'TPL-AutoRenewal.py'
@@ -28,7 +28,8 @@ Make sure you set the 'Start in' field to the installation location of this repo
 Example: 'C:\Users\USERNAME\Downloads\TPL-AutoRenewal'
 Replace USERNAME with your computer's username
 
-#### Set the script to run automatically (Windows) - Text
+### Set the script to run automatically (Windows) - Text
+
 Open TaskScheduler
 On the right hand side, click 'Create Task'
 
@@ -64,7 +65,7 @@ Enter your windows password
 
 Your library checkouts will now be automatically renewed the day before they're due!
 
-#### Set the script to run automatically (macOS)
+### Set the script to run automatically (macOS)
 In your terminal type
 crontab 0 1 * * * /path/to/script
 Replace /path/to/script with the actual path to TPL-AutoRenewal.py
