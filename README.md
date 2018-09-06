@@ -11,19 +11,16 @@ Please star this repo if it's helped you
 Install (Python 3)[https://www.python.org/downloads/] on your machine
 
 
-
 ### Install Selenium
 
 Run the following command in your terminal
 pip install -U selenium
 
 
-
 ### Enter your own authentication credentials
 
 Open auth.txt
 Replace the word PLACEHOLDER with your respective credentials
-
 
 
 ### Set the script to run automatically (Windows) - Video
@@ -33,7 +30,6 @@ Make sure you set the 'Add arguments' field to 'TPL-AutoRenewal.py'
 Make sure you set the 'Start in' field to the installation location of this repo  
 Example: 'C:\Users\USERNAME\Downloads\TPL-AutoRenewal'
 Replace USERNAME with your computer's username
-
 
 
 ### Set the script to run automatically (Windows) - Text
@@ -72,7 +68,6 @@ On the bottom click 'OK'
 Enter your windows password
 
 Your library checkouts will now be automatically renewed the day before they're due!
-
 
 
 ### Set the script to run automatically (macOS)
