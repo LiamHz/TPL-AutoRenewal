@@ -1,0 +1,12 @@
+# Authentication
+# In the following lines, replace PLACEHOLDER with your respective credentials
+# Do not create extra lines, write in the space provided
+
+# TPL Username
+PLACEHOLDER
+# TPL Password
+PLACEHOLDER
+# Email Username
+PLACEHOLDER
+# Email Password
+PLACEHOLDER
