@@ -8,7 +8,7 @@ Please star this repo if it's helped you
 
 ### Install Python 3
 
-Install (Python 3)[https://www.python.org/downloads/] on your machine
+Install [Python 3](https://www.python.org/downloads/) on your machine
 
 
 ### Install Selenium
