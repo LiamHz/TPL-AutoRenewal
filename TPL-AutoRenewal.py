@@ -15,6 +15,9 @@ from selenium.webdriver.support import expected_conditions as EC
 # Enable excpetions
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
+# Enable time delay
+import time
+
 driver = webdriver.Chrome("chromedriver.exe")
 driver.get("https://account.torontopubliclibrary.ca/checkouts")
 
@@ -84,6 +87,7 @@ for item in itemsToRenew:
     try:
         renewButton = driver.find_element_by_xpath(renewButtonXPath)
         renewButton.click()
+        time.sleep(3)
     except NoSuchElementException:
         print("No Renew Button for {}!".format(item))
 
